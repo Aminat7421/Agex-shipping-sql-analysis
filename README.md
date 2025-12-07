@@ -41,7 +41,7 @@ The SQL script includes queries to:
 git clone https://github.com/Aminat7421/Agex-shipping-sql-analysis.git
 
 # 2. Navigate to the sql/ folder to access the SQL script
-cd agex_shipping_sql_analysis/sql
+cd agex_shipping_sql_analysis.sql
 
 # 3. Execute the SQL script on your SQL server or database environment to replicate the analysis. 
 
