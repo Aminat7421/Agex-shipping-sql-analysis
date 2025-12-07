@@ -37,10 +37,18 @@ The SQL script includes queries to:
 
 ## How to Use
 
-1. Clone this repository to your local machine:
+# 1. Clone this repository to your local machine
+git clone https://github.com/Aminat7421/Agex-shipping-sql-analysis.git
 
-```bash
-git clone https://github.com/your-username/agex-shipping-sql-analysis.git
-2. Navigate to the sql/ folder to access the SQL script:
-cd agex-shipping-sql-analysis/sql
+# 2. Navigate to the sql/ folder to access the SQL script
+cd agex_shipping_sql_analysis/sql
 
+# 3. Execute the SQL script on your SQL server or database environment to replicate the analysis. 
+
+---
+
+## Project Highlights
+
+-Demonstrates the ability to translate a business scenario into structured SQL queries.
+-Provides actionable insights on shipping operations and performance.
+-Serves as a portfolio project showcasing SQL analysis skills.
